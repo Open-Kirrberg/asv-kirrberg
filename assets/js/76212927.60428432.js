@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[21],{1330:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/asv-kirrberg/blog/tags/hello","allTagsPath":"/asv-kirrberg/blog/tags","count":2,"unlisted":false}')}}]);
