@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[9736],{1504:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/asv-kirrberg/blog/tags/docusaurus","allTagsPath":"/asv-kirrberg/blog/tags","count":4,"unlisted":false}')}}]);
